@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/07/71/51/06/360_F_771510662_QJcLIOtHPyeqWIp0M4kB0XbHlKPYlxpQ.jpg);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image {
+    height: 250px;
+    width: 400px;
+}
+.image_container {
+    margin-top: 100px;
+}
